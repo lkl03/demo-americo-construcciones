@@ -1,2 +1,7 @@
-# demo-americo-construcciones
-Demo web para Americo Construcciones — diseñada por eterlab.
+# Americo Construcciones
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
